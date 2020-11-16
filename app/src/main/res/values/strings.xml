@@ -1,0 +1,4 @@
+<resources>
+    <string name="color_net">ColorNet</string>
+    <string name="tfe_ic_app_name" translatable="false">ColorNet</string>
+</resources>
