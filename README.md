@@ -1,4 +1,4 @@
-# Colornet
+# Colornet-tflite
 ### This is an implementation of running a image colorization model on Android.
 
 The motive of this project is to build a pipeline to train and deploy models on Android using Tflite and not to create a good model for colorization.
