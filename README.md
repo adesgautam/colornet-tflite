@@ -69,6 +69,4 @@ Trainable params: 6,725,752
 Non-trainable params: 0
 ```
 
-### Model Architecture
-
 ![model](https://github.com/adesgautam/colornet-tflite/blob/master/images/model.png?raw=true "Model Architecture")
