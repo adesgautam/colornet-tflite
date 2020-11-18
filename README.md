@@ -71,4 +71,4 @@ Non-trainable params: 0
 
 ### Model Architecture
 
-[model](https://github.com/adesgautam/colornet-tflite/blob/master/images/model.png)
+![model](https://github.com/adesgautam/colornet-tflite/blob/master/images/model.png?raw=true "Model Architecture")
