@@ -15,6 +15,7 @@ The model is trained on just 30k images in the Flikr30k dataset. The results are
 
 ### Model Architecture
 
+```
 __________________________________________________________________________________________________
 Layer (type)                    Output Shape         Param #     Connected to                     
 ==================================================================================================
@@ -66,7 +67,7 @@ conv2d_transpose_2 (Conv2DTrans (None, 256, 256, 2)  38          conv2d_13[0][0]
 Total params: 6,725,752
 Trainable params: 6,725,752
 Non-trainable params: 0
-
+```
 
 ### Model Architecture
 
